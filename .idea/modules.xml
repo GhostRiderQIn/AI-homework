@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AI-projects.iml" filepath="$PROJECT_DIR$/AI-projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PerceptronNetwork/PerceptronNetwork.iml" filepath="$PROJECT_DIR$/PerceptronNetwork/PerceptronNetwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animal/animal.iml" filepath="$PROJECT_DIR$/animal/animal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/八数码问题/八数码问题.iml" filepath="$PROJECT_DIR$/八数码问题/八数码问题.iml" />
+      <module fileurl="file://$PROJECT_DIR$/野人传教士问题/野人传教士问题.iml" filepath="$PROJECT_DIR$/野人传教士问题/野人传教士问题.iml" />
+    </modules>
+  </component>
+</project>
